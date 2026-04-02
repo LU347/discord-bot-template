@@ -1,4 +1,7 @@
 # Instructions
+
+1. Fork this repository
+
 ## Discord Developer Portal
 1. Go to https://discord.com/developers/applications and create your own app
 2. Retrieve your bot token (Overview -> Bot -> Token -> Reset Token)
